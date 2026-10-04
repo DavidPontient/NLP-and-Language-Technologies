@@ -1,0 +1,6 @@
+Model Results Summary
+======================
+Logistic Regression accuracy: 0.1940
+Random Forest accuracy: 0.1393
+LSTM accuracy: 0.7381
+Transformer accuracy: 0.7345
